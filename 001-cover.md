@@ -1,3 +1,3 @@
 # Daftar Isi
-## Pengenalan
-### Struktur File 
+ - Pengenalan
+ - Struktur File 
