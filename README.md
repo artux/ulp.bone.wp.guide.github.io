@@ -11,3 +11,4 @@ terbagi beberapa bagian, yaitu 4 bagian info lelang, berita, dan profile Unit La
 
 
 ## User <a name="user"></a>
+untuk mengakses user, terlebih dahulu lakukan login di : http://ulp.bonekab.info/wp/-admin
