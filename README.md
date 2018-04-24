@@ -6,6 +6,8 @@ Unit Layanan Pengadaan, Kabupaten Bone
 + [User](#user)
 
 ## Penjelasan <a name="penjelasan"></a>
+Website ULP Kabupaten Bone, untuk memberikan informasi Lelang dan Berita tentang kabupaten bone dan pengadaan.
+terbagi beberapa bagian, yaitu 4 bagian info lelang, berita, dan profile Unit Layanan Pengadaan
 
 
-## User <a name="penjelasan"></a>
+## User <a name="user"></a>
