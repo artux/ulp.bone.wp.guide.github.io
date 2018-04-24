@@ -11,7 +11,7 @@ terbagi beberapa bagian, yaitu 4 bagian info lelang, berita, dan profile Unit La
 
 
 ## User <a name="user"></a>
-untuk mengakses user, terlebih dahulu lakukan login di : http://ulp.bonekab.info/wp-admin
+untuk mengakses Seluruh Halaman Dashboard Administrator, terlebih dahulu lakukan login di : http://ulp.bonekab.info/wp-admin
 masukkan username dan password yang sesuai dan benar
 
 Kemudian, pada menu navigasi vertikal sebelah kiri, terdapat [USERS](http://ulp.bonekab.info/wp-admin/users.php)
