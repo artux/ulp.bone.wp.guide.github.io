@@ -1,4 +1,4 @@
-![ulp.bone.wp.guide]()
+![ulp.bone.wp.guide](http://teknodaeng.com/img/ulp-bonekab-wordpress-logo.png)
 # ulp.bone.wp.guide.github.io
 Unit Layanan Pengadaan, Kabupaten Bone
 ## Index
